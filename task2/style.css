@@ -1,0 +1,25 @@
+
+
+
+header{
+
+    align-items: center;
+    background-color:lightgray;
+    color: red;
+    text-align: center;
+   padding: 1px;
+}
+h2{
+
+    color: darkblue;
+
+}
+footer{
+    color: darkblue;
+    background-color:lightgray;
+    display: flex;
+   
+}
+h3{
+    padding-left: 50px;
+}
